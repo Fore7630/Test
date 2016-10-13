@@ -10,8 +10,9 @@
 public class AnimalKingdom {
 
     public static void main(String[] args) {
-        printMessage();
-
+        for (int i=1; i<1000; i++) {
+            printMessage();
+        }
         // add your code to print the various objects here
 
     }
